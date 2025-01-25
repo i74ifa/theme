@@ -3,5 +3,5 @@
 dist
 TODOs.md
 .DS_Store
-demo/.vitepress/cache
+docs/.vitepress/cache
 .idea
